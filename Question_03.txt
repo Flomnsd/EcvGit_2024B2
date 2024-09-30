@@ -1,2 +1,3 @@
 A quoi sert Git ?
--> 
+->  Il s'agit d'un outil de développement qui aide une équipe de développeurs à gérer les changements apportés au code source au fil du temps.
+
